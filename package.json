@@ -1,0 +1,23 @@
+{
+  "name": "cashflow-nexus",
+  "version": "1.0.0",
+  "description": "CashFlow Nexus - AI-powered cash flow analysis",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.5.32"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "laravel-vite-plugin": "latest",
+    "vite": "latest"
+  }
+}
